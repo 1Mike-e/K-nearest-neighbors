@@ -6,7 +6,7 @@ This repository contains a Python implementation of the K-Nearest Neighbors (K-N
 
 The K-NN algorithm is a simple yet effective machine learning algorithm used for classification and regression. In this implementation, we use K-NN to predict whether a user will purchase a product based on their age and estimated salary, using the "Social_Network_Ads.csv" dataset.
 
-## Dependenciesg
+## Dependencies
 
 Before running the code, ensure you have the following libraries installed:
 
